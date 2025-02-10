@@ -1,0 +1,17 @@
+.fondo{
+    background-image: url("./img/fondo.avif");
+    padding: 25%;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.menu{
+    background-color: #33ffff;
+}
+
+.colorfooter{
+
+    background-color: blueviolet;
+}
